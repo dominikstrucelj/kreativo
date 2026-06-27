@@ -978,14 +978,14 @@ section#contact.ios {
 	background-size: cover;
 }
 
-section#koncerti h1{
+section#video h1{
 	color:white;
 	display:inline;
 	margin-left:20px;
 	margin-top:5px;
 }
 
-section#koncerti.web{
+section#video.web{
     background-color: #222;
 	/* background-image: url(../img/map-image.png); */
 	background-image: url(../img/2019/kreativo_koncerti.jpg);
@@ -998,7 +998,7 @@ section#koncerti.web{
 	-o-background-size: cover;
 	background-size: cover;
 }
-section#koncerti.ios{
+section#video.ios{
     background-color: #222;
 	/* background-image: url(../img/map-image.png); */
 	background-image: url(../img/2019/kreativo_koncerti.jpg);
